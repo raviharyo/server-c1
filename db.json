@@ -1,0 +1,325 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "role": "admin",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "email": "user2@gmail.com",
+      "role": "admin",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "email": "user3@gmail.com",
+      "role": "admin",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "email": "user4@gmail.com",
+      "role": "admin",
+      "password": "123456"
+    },
+    {
+      "id": 5,
+      "email": "user5@gmail.com",
+      "role": "admin",
+      "password": "123456"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Jackets"
+    },
+    {
+      "id": 2,
+      "name": "T-Shirt"
+    },
+    {
+      "id": 3,
+      "name": "Pants"
+    },
+    {
+      "id": 4,
+      "name": "Sandals"
+    },
+    {
+      "id": 5,
+      "name": "Shoes"
+    },
+    {
+      "id": 6,
+      "name": "Bags"
+    },
+    {
+      "id": 7,
+      "name": "Belts"
+    },
+    {
+      "id": 8,
+      "name": "Watches"
+    },
+    {
+      "name": "tes2",
+      "id": 9
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "1st Camo Pocket Relaxed Fit Double Knit Half Zip Hoodie",
+      "slug": "1st-Camo-Pocket-Relaxed-Fit-Double-Knit-Half-Zip-Hoodie",
+      "description": "Manufacturer: China,Material: Shell 45% cotton; 51% polyester; 4% polyurethane",
+      "price": 343,
+      "mainImg": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXJKM114006IBLX/0ZXJKM114006IBLX-pdp-1.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "name": "Busy Shark Loose Fit MA-1",
+      "slug": "Busy-Shark-Loose-Fit-MA-1",
+      "description": "Manufacturer: China,Material: Shell 100% polyamide; Lining 100% polyester; Filling 100% polyester,Care: Hand wash in cold water separately. Do not bleach. Line dry in the shade. Do not tumble dry. Use cool iron. Do not dry clean. Use cool iron with cloth.",
+      "price": 603,
+      "mainImg": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXJKM141001IBKX/0ZXJKM141001IBKX-pdp-1.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "X Hugo Logo Tee",
+      "price": 98,
+      "mainImg": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBTEM109903IWHX/MRBTEM109903IWHX-pdp-1.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80",
+      "description": "Manufacturer: Portugal,Material: Shell 100% cotton",
+      "id": 3,
+      "categoryId": 2,
+      "authorId": 2
+    },
+    {
+      "id": 4,
+      "name": "X Hugo CS Tee",
+      "slug": "X-Hugo-CS-Tee",
+      "description": "This item is from the collaboration between Mr. Bathing Ape and Hugo Boss. This bespoke; versatile item can pair well with most styles,Manufacturer: China,Material: Shell 100% cotton,Care: Hand wash in cold water separately. Do not bleach. Do not tumble dry. Lay flat to dry. Do not dry clean. Use cool iron. Do not soak for more than five minutes. Wear and wash with like colours. Turn garment inside out.",
+      "price": 118,
+      "mainImg": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBTEM109901IWHX/MRBTEM109901IWHX-pdp-1.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80",
+      "categoryId": 2,
+      "authorId": 2
+    },
+    {
+      "id": 5,
+      "name": "X Hugo Sweat Pants",
+      "slug": "X-Hugo-Sweat-Pants",
+      "description": "Mr. BATHING APE has come together with luxury fashion house Hugo Boss for an exclusive capsule collection. These slim-fit pants feature a branded drawstring waist; camo flap pockets; and rear logo prints in red and white,Manufacturer: China,Material: Shell 100% cotton; Trimming 100% cotton,Care: Hand wash in cold water separately. Do not bleach. Do not tumble dry. Lay flat to dry. Do not dry clean. Use cool iron. Do not soak for more than five minutes. Wear and wash with like colours. Turn garment inside out.",
+      "price": 244,
+      "mainImg": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBPTM152901IBKX/MRBPTM152901IBKX-pdp-1.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80",
+      "categoryId": 3,
+      "authorId": 3
+    },
+    {
+      "id": 6,
+      "name": "X Coach Sweat shorts",
+      "slug": "X-Coach-Sweat-shorts",
+      "description": "Elastic waistband,Coach's signature pattern,Ape Head print,Manufacturer: Japan,Material: Shell 100% cotton,Care: Machine wash in cold water. Oxygen bleach. Line dry only. Use a warm iron. Do not dry clean.",
+      "price": 350,
+      "mainImg": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSPM31902CHNYX/0ZXSPM31902CHNYX-pdp-1.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    {
+      "id": 7,
+      "name": "X Suicoke Sandals",
+      "slug": "X-Suicoke-Sandals",
+      "description": "Zippered stash pocket,Cushioned sole,Velcro strap,Manufacturer: China,Material: Shell 100% fabric",
+      "price": 296,
+      "mainImg": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSLM191901GGRX/0ZXSLM191901GGRX-pdp-1.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80",
+      "categoryId": 4,
+      "authorId": 2
+    },
+    {
+      "id": 8,
+      "name": "Baby Milo slippers",
+      "slug": "Baby-Milo-slippers",
+      "description": "Manufacturer: China",
+      "price": 39,
+      "mainImg": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0MXSHM4128XXIMLX/0MXSHM4128XXIMLX-pdp-1.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80",
+      "categoryId": 4,
+      "authorId": 1
+    },
+    {
+      "id": 9,
+      "name": "Bape STA X Medicom Toy Be@R Camo M1 Sneakers",
+      "slug": "Bape-STA-X-Medicom-Toy-Be@R-Camo-M1-Sneakers",
+      "description": "Panelled construction,Perforated toe box,Lace closure,Manufacturer: China",
+      "price": 336,
+      "mainImg": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSHM191913HBKX/0ZXSHM191913HBKX-pdp-1.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80",
+      "categoryId": 5,
+      "authorId": 2
+    },
+    {
+      "id": 10,
+      "name": "Bape X Vans 1st Camo Authentic",
+      "slug": "Bape-X-Vans-1st-Camo-Authentic",
+      "description": "Camo print,Lace closure,Logo tag,Manufacturer: Vietnam",
+      "price": 88,
+      "mainImg": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSHM191909HGRX/0ZXSHM191909HGRX-pdp-1.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80",
+      "categoryId": 5,
+      "authorId": 1
+    }
+  ],
+  "image": [
+    {
+      "id": 1,
+      "productId": 1,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXJKM114006IBLX/0ZXJKM114006IBLX-pdp-2.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXJKM114006IBLX/0ZXJKM114006IBLX-pdp-3.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXJKM114006IBLX/0ZXJKM114006IBLX-pdp-4.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXJKM141001IBKX/0ZXJKM141001IBKX-pdp-2.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 5,
+      "productId": 2,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXJKM141001IBKX/0ZXJKM141001IBKX-pdp-3.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 6,
+      "productId": 2,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXJKM141001IBKX/0ZXJKM141001IBKX-pdp-4.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 7,
+      "productId": 3,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBTEM109903IWHX/MRBTEM109903IWHX-pdp-2.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 8,
+      "productId": 3,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBTEM109903IWHX/MRBTEM109903IWHX-pdp-5.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 9,
+      "productId": 3,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBTEM109903IWHX/MRBTEM109903IWHX-pdp-4.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 10,
+      "productId": 4,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBTEM109901IWHX/MRBTEM109901IWHX-pdp-2.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 11,
+      "productId": 4,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBTEM109901IWHX/MRBTEM109901IWHX-pdp-4.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 12,
+      "productId": 4,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBTEM109901IWHX/MRBTEM109901IWHX-pdp-5.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 13,
+      "productId": 5,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBPTM152901IBKX/MRBPTM152901IBKX-pdp-2.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 14,
+      "productId": 5,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBPTM152901IBKX/MRBPTM152901IBKX-pdp-3.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 15,
+      "productId": 5,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/MRBPTM152901IBKX/MRBPTM152901IBKX-pdp-4.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 16,
+      "productId": 6,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSPM31902CHNYX/0ZXSPM31902CHNYX-pdp-3.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 17,
+      "productId": 6,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSPM31902CHNYX/0ZXSPM31902CHNYX-pdp-2.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 18,
+      "productId": 6,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSPM31902CHNYX/0ZXSPM31902CHNYX-pdp-1.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 19,
+      "productId": 7,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSLM191901GGRX/0ZXSLM191901GGRX-pdp-2.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 20,
+      "productId": 7,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSLM191901GGRX/0ZXSLM191901GGRX-pdp-3.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 21,
+      "productId": 7,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSLM191901GGRX/0ZXSLM191901GGRX-pdp-4.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 22,
+      "productId": 8,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0MXSHM4128XXIMLX/0MXSHM4128XXIMLX-pdp-2.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 23,
+      "productId": 8,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0MXSHM4128XXIMLX/0MXSHM4128XXIMLX-pdp-3.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 24,
+      "productId": 8,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0MXSHM4128XXIMLX/0MXSHM4128XXIMLX-pdp-4.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 25,
+      "productId": 9,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSHM191913HBKX/0ZXSHM191913HBKX-pdp-2.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 26,
+      "productId": 9,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSHM191913HBKX/0ZXSHM191913HBKX-pdp-4.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 27,
+      "productId": 9,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSHM191913HBKX/0ZXSHM191913HBKX-pdp-6.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 28,
+      "productId": 10,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSHM191909HGRX/0ZXSHM191909HGRX-pdp-2.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 29,
+      "productId": 10,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSHM191909HGRX/0ZXSHM191909HGRX-pdp-3.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    },
+    {
+      "id": 30,
+      "productId": 10,
+      "imgUrl": "https://ithk-pro-itmall-item.oss-cn-hongkong.aliyuncs.com/2/product/0ZXSHM191909HGRX/0ZXSHM191909HGRX-pdp-4.jpg?x-oss-process=image/resize,m_pad,h_750,w_600/auto-orient,1/quality,Q_80"
+    }
+  ]
+}
